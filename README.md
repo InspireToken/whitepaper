@@ -1,4 +1,4 @@
-# white-paper
+# whitepaper
 ninjacoin white paper
 
 Introduction
