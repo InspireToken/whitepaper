@@ -1,5 +1,5 @@
-# whitepaper
-ninjacoin white paper
+# Whitepaper
+NinjaCoin white paper
 
 Introduction
 “Bitcoin” [1] has been a successful implementation of the concept of p2p electronic cash. Both
